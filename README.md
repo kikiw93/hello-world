@@ -1,3 +1,3 @@
 # hello-world
-Just another repository
-I am a stund at Universidad San Francisco de Quito in Ecuador and I study industrial engineering.
+
+I am a stundent at Universidad San Francisco de Quito in Ecuador. I am currently at my 8th semester of Industrial Engineering.I like programming and horse back riding.
